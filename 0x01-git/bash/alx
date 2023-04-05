@@ -4,3 +4,7 @@ delete echo "ALX" and replace it with echo "ALX School is so cool!"
 echo "ALX"
 delete echo "ALX" and replace it with, echo "ALX School" 
 
+delete the first two from the master branch, leave only the second two lines from the update_script branch. This is what it should now be: 
+#!/bin/bash
+#echo "ALX School"
+#
